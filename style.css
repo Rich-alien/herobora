@@ -1,0 +1,90 @@
+.header {
+    font-family: 'Bellota Text';
+    text-align: center;
+    color: #004F7C;
+}
+
+.p1 {
+    display: flex;
+    padding-left: 187px;
+}
+
+.p2 {
+    display: flex;
+    padding-left: 187px;
+}
+
+.p3 {
+    display: flex;
+    padding-left: 187px;
+}
+
+.header > h1 {
+    font-weight: 400;
+    font-size: 36px;
+}
+
+.header > h1 > p {
+    margin-top: 5px;
+}
+
+.call {
+    padding-left: 180px;
+    padding-top: 55px;
+}
+
+.mail {
+    padding-left: 180px;
+    padding-top: 55px;
+}
+
+.i {
+    padding-left: 180px;
+    padding-top: 55px;
+}
+
+.i > p {
+    font-family: 'Lora';
+    font-weight: 700;
+    font-size: 56px;
+    margin-left: 34px;
+    margin-top: -82px;
+    color: #FFFFFF;
+    ;
+}
+
+.dog1 {
+    margin-left: -57px;
+    margin-bottom: 33px;
+}
+
+.dog2 {
+    margin-left: -40px;
+    margin-bottom: 19px;
+}
+
+.phone {
+    margin-left: -71px;
+    margin-bottom: 20px;
+}
+
+span {
+    font-family: 'Bellota Text';
+    font-size: 24px;
+    color: #415F70;
+    padding-left: 38px;
+    padding-top: 57px;
+}
+
+.span3 { /* это использовал для выравнивания текста */
+    font-family: 'Bellota Text';
+    font-size: 24px;
+    color: #415F70;
+    padding-left: 20px;
+    padding-top: 57px;
+}
+
+span > p { /* это для уменьшения отступов */
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
